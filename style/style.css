@@ -4,12 +4,7 @@
 * @author - Mazeen
 * @date - 28/7/2023 
 **/
-.counter-box {
+.form-field {
     width: 800px;
     margin: 100px auto;
-}
-.counter-box .input {
-    width: 100%;
-    height: 300px;
-    box-sizing: border-box;
 }
