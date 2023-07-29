@@ -1,0 +1,2 @@
+# Character Counter
+This is a character counter built using HTML, CSS, and Javascript. Whenever a user types into the text area, this program helps calculate the number of characters that are inside the text area. The counting is dynamic which means that the changes in the number of characters is displayed instantaneously.

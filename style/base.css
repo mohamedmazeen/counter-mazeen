@@ -1,0 +1,24 @@
+/**
+*
+* base.css 
+* @author - Mazeen
+* @date - 28/7/2023 
+**/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #80c8fe;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #120229;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #08548d;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #0a5991;
+}
